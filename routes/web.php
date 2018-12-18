@@ -17,4 +17,5 @@ Route::get('/superadmin', 'SuperadminController@index');
 Route::get('/superadmin/addincubator', 'SuperadminController@addIncubator');
 Route::get('/superadmin/dashboard', 'SuperadminController@dashboard');
 
-Route::get('/db','InkubatorController@addDb');
+Route::get('/db','InkubatorController@addDb'); 
+// Route::get('/db','InkubatorController@addDb'); 

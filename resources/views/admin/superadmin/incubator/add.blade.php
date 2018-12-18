@@ -20,11 +20,11 @@
 
                     <div class="">
                         <h3>Tambah Inkubator</h2>
-
+{{-- 
                             <ul>
                                 <li><a href="#" data-toggle="modal" data-target="#login-modal">Login</a>
                                 </li>
-                            </ul>
+                            </ul> --}}
                     </div>
                     <br>
 
